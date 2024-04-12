@@ -1,0 +1,2 @@
+<h1>Wather-App</h1>
+<p>The Weather Forecast App is a web application developed using HTML, JavaScript, and CSS, providing users with real-time weather information for their location and other desired locations worldwide.By providing users with access to up-to-date weather forecasts for multiple locations, the Weather Forecast App offers a convenient solution for staying informed about current and upcoming weather conditions, whether at home or while traveling.</p>
